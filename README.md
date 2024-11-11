@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Haythemmighri](https://github.com/Haythemmighri)
 
-- 📫 How to reach me **mgh.haythem@gmail.com**
+- 📫 How to reach me **mighri.haythem@outlook.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
