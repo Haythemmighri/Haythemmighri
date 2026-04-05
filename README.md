@@ -10,7 +10,7 @@ My main tech stack is **Python, ML, DL, LLMs, NLPs, JavaScript, React, Angular, 
 
 I’ve got a bunch of projects, but my favorite is ai_resume_analyzer.  
 
-I’ve built over 50 public repositories, and probably more privately at this point.   
+I’ve built over 20 public repositories, and probably more privately at this point.   
 
 ---
 
