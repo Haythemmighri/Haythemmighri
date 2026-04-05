@@ -16,6 +16,6 @@ I’ve built over 50 public repositories, and probably more privately at this po
 
 ## Fun Facts:
 - I have 2 cats 🐱
-- - I love sports especially football (Favorite team is Barcelona) 🐱
+- I love sports especially football (Favorite team is Barcelona) 🐱
 - I like coffee and tea ☕ 
 - **Hobbies:** Football, gym, building things, coding  
