@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Haythem Mighri</h1>
-<h3 align="center">A passionate developer from Tunisia</h3>
+<h3 align="center">A passionate Data Science & Software Engineer from Tunisia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haythemmighri" alt="haythemmighri" /></a> </p>
 
-- 🌱 I’m currently learning Deep learning**
+- 🌱 I’m currently Trying to finish my studies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Haythemmighri](https://github.com/Haythemmighri)
 
-- 📫 How to reach me **mighri.haythem@outlook.fr**
+- 📫 How to reach me **haythem.mighri@outlook.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
